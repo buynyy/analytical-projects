@@ -1,9 +1,9 @@
 ## Steel Temperature Forecast
 
-### The main task of the project:
+### Main project task:
 Build a model that predicts the temperature of the steel after its full processing cycle in order to optimize plant's production costs
 
-### Data:
+### Data description:
 - heating electrodes data;
 
 - data on the supply of bulk materials (*volume*);
