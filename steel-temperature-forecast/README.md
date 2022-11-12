@@ -1,9 +1,9 @@
-# Steel Temperature Forecast
+## Steel Temperature Forecast
 
-## The main task of the project:
+### The main task of the project:
 Build a model that predicts the temperature of the steel after its full processing cycle in order to optimize plant's production costs
 
-## Data:
+### Data:
 - heating electrodes data;
 
 - data on the supply of bulk materials (*volume*);
@@ -18,7 +18,7 @@ Build a model that predicts the temperature of the steel after its full processi
 
 - data on wire materials (*time*).
 
-## Project stages
+### Project stages
 - Exploratory data analysis
 
 - Date preprocessing
@@ -35,5 +35,5 @@ Build a model that predicts the temperature of the steel after its full processi
 
 - Feature Importance Analysis
 
-## Libraries and methods used 
+### Libraries and methods used 
 `pandas`, `seaborn`, `exploratory data analysis`, `data preprocessing`, `machine learning`, `gradient boosting`, `sklearn`
