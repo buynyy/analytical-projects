@@ -1,8 +1,8 @@
 # analytical-projects
 
-This repository stores projects completed as part of Data Scientist professional training course at Yandex School of Data Analysis
+*This repository stores projects completed as part of Data Scientist professional training course at Yandex School of Data Analysis*
 
-Brief descriptions of the projects are provided below. For each project you also can find the keywords highlighting the main methods and libraries used
+*Brief descriptions of the projects are provided below. For each project you also can find the keywords highlighting the main methods and libraries used*
 
 ## Steel Temperature Forecast
 
