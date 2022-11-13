@@ -9,5 +9,4 @@
 | Project Name | Description | Methods and Libraries used | 
 | :---------------------- | :---------------------- | :---------------------- |
 | [Steel Temperature Forecast](steel-temperature-forecast) | Building a model able to predict the temperature of steel after the full metal processing stage in order to optimize production costs of the plant | `pandas`, `seaborn`, `exploratory data analysis`, `data preprocessing`, `machine learning`, `gradient boosting`, `sklearn` |
-| :---------------------- | :---------------------- | :---------------------- |
 | [Taxi Orders Forecast](taxi-orders-forecast) | Build a model to predict the number of taxi orders for the next hour in order to attract more drivers during peak periods | `time series`, `pandas`, `matplotlib`, `exploratory data analysis`, `machine learning`, `LightGBM`, `LinearRegression` |
