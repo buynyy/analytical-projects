@@ -36,4 +36,4 @@ Build a model that predicts the temperature of the steel after its full processi
 - Feature Importance Analysis
 
 ### Libraries and methods used 
-`pandas`, `seaborn`, `exploratory data analysis`, `data preprocessing`, `machine learning`, `gradient boosting`, `sklearn`
+`pandas`, `seaborn`, `exploratory data analysis`, `data preprocessing`, `machine learning`, `gradient boosting`, `sklearn`, `feature engineering`
