@@ -5,7 +5,7 @@ Speed up the moderation of comments in the community by automating the assessmen
 Train the model to classify comments into positive and negative.
 
 ### Data description:
-The `text` field contains the text of the comment, and `toxic` is the target feature.
+The `text` field contains the text of the comment, and `toxic` is the target variable.
 
 ### Project results
 - The model was trained to classify comments into positive and negative ones. 
