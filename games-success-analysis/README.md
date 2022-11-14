@@ -10,7 +10,7 @@ Historical data on sales of computer games (genre, sales volumes, geography, use
 - The parameters that determine the success of the game in different regions of the world are identified.
 - A potentially popular product has been identified and recommendations for the advertising campaigns have been provided
 - The up-to-date period for analysis has been selected
-- Compiled portraits of users in each region.
+- User portraits for each region are compiled
 - Hypotheses tested: (1) the average user ratings of the Xbox One and PC platforms are the same; (2) the average user ratings for the Action and Sports genres are different.
 - Student's t-test for independent samples was implemented
 
