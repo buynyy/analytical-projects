@@ -5,7 +5,6 @@ Build a model that predicts the temperature of the steel after its full processi
 
 ### Data description:
 - heating electrodes data;
-
 - data on the supply of bulk materials (*volume*);
 - data on the supply of bulk materials (*time*);
 - data on alloy gas purge;
